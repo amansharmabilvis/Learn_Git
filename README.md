@@ -46,4 +46,7 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 - Name: Nachiketa Dev Sharma  
 - Roll No.: 2018CSA1136
 - Interests: Python, Web Development
+- Name: Aman
+- Roll No : 2019010052296
+- Interests:Eat Learn Sleep And Repeat
 
